@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+
+html {
+  overflow: hidden !important;
+}
+
+.VueCarousel   {
+  width: 100%;
+}
+
+.VueCarousel-slide {
+  width: 100%;
+}
+
+* {
+  font-family: 'Hammersmith One', sans-serif;
+}

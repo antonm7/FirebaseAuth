@@ -1,0 +1,30 @@
+{
+  "name": "fire-auth",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate"
+  },
+  "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^5.15.2",
+    "@nuxt/typescript-runtime": "^2.0.1",
+    "@nuxtjs/firebase": "^7.4.1",
+    "core-js": "^3.8.3",
+    "firebase": "^8.2.6",
+    "jquery": "^3.5.1",
+    "nuxt": "^2.14.12",
+    "vue-carousel": "^0.18.0",
+    "vue-slick": "^1.1.16",
+    "vue-slick-carousel": "^1.0.6"
+  },
+  "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@nuxt/types": "^2.14.12",
+    "@nuxt/typescript-build": "^2.0.4",
+    "@nuxtjs/fontawesome": "^1.1.2"
+  }
+}
